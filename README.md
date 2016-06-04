@@ -7,5 +7,5 @@ This script is useful for people wishing to obtain their car license ASAP, as ap
 
 Adjust <em>this.chosenDate</em> variable to set your prefered date to have your appointment by.
 
-Author: Jake Maclean
+Author: Jake Maclean<br />
 Date: 10/06/2013
